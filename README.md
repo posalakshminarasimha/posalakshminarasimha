@@ -1,4 +1,4 @@
-# 👋 Hey, I'm # Posa Lakshmi Narasimha! 👋!
+# 👋 Hey, I'm Posa Lakshmi Narasimha! 👋!
 
 ### 💻 Young Developer • Full-Stack Development • 🎮 Roblox Game Developer
 
